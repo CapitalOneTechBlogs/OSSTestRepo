@@ -1,5 +1,5 @@
 # TestRepo
-This repo is used for testing only. this and... that...
+This repo is used for testing only. this and... that... or
 
 ## Contributors
 - riley-kohler
